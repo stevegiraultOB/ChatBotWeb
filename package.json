@@ -1,0 +1,11 @@
+{
+  "name": "chatbot-proxy",
+  "version": "1.0.0",
+  "description": "Proxy local pour le chatbot web",
+  "main": "proxy-server.js",
+  "dependencies": {
+    "mammoth": "^1.13.0",
+    "openai": "^7.53.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
